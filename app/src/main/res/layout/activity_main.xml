@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TableRow>
+
+        <ImageButton
+            android:id="@+id/zpm"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/zpm"
+            android:onClick="zpmClick"
+            android:layout_margin="5dp"/>
+
+        <ImageButton
+            android:id="@+id/prism"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/prism"
+            android:onClick="prismClick"
+            android:layout_margin="5dp"/>
+    </TableRow>
+
+
+    <TableRow>
+
+        <ImageButton
+            android:id="@+id/mnf"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/mnf"
+            android:onClick="mnfClick"
+            android:layout_margin="5dp"/>
+
+        <ImageButton
+            android:id="@+id/congress"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/congress"
+            android:onClick="congressClick"
+            android:layout_margin="5dp"/>
+    </TableRow>
+</TableLayout>
