@@ -4,7 +4,6 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Toast;
 
 import spencerstudios.com.bungeelib.Bungee;
 
@@ -41,13 +40,22 @@ public class menu extends AppCompatActivity {
 
         if(message.equals("zpm")) {
 
-            startActivity(new Intent(this,ZpmManifestoContent.class));
+            startActivity(new Intent(this,ManifestoContent.class).putExtra("partyName",message));
             Bungee.zoom(this);
 //
-//            Intent intent2 = new Intent(this,ZpmManifestoContent.class);
+//            Intent intent2 = new Intent(this,ManifestoContent.class);
 //         //   intent2.putExtra("partyName", message);
 //            startActivity(intent2);
-        }else {
+        }else if (message.equals("mnf")) {
+            startActivity(new Intent(this,ManifestoContent.class).putExtra("partyName",message));
+            Bungee.zoom(this);
+
+        }else if (message.equals("prism")){
+            startActivity(new Intent(this,ManifestoContent.class).putExtra("partyName",message));
+            Bungee.zoom(this);
+        }
+
+        else {
 
             startActivity(new Intent(this,Manifestos.class).putExtra("partyName",message));
             Bungee.zoom(this);

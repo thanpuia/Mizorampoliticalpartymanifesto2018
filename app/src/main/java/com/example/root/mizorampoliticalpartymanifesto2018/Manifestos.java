@@ -14,21 +14,11 @@ public class Manifestos extends AppCompatActivity {
 
     TextView manifestosTv,partyNameTv;
     public int TEXT_SIZE = 16;
-    ScrollView scrollView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_manifestos);
-
-        scrollView = findViewById(R.id.scrollView);
-
-        Display display = getWindowManager().getDefaultDisplay();
-        Point size = new Point();
-
-        display.getSize(size);
-        int width = size.x;
-        int height = size.y;
 
         //scrollView.setMinimumHeight();
 
@@ -40,17 +30,17 @@ public class Manifestos extends AppCompatActivity {
 
 
         int[] partyName = new int[] {R.string.zpm,R.string.prism,R.string.mnf,R.string.congress};
-        int[] manifestos = new int[]{1, R.string.prismManifestos,R.string.mnfManifestos, R.string.congressManifestos};
+        int[] manifestos = new int[]{1,2,3, R.string.congressManifestos};
         Bundle bundle = getIntent().getExtras();
         String message = bundle.getString("partyName");
-       // manifestosTv.setText(manifestos[0]);
+        // manifestosTv.setText(manifestos[0]);
         //textSize = (int) manifestosTv.getTextSize();
 
 //        if(message.equals("zpm")){ ;
 ////            partyNameTv.setText(partyName[0]);
 ////            manifestosTv.setText(manifestos[0]);
 //
-//           /// Intent intent = new Intent(this,ZpmManifestoContent.class);
+//           /// Intent intent = new Intent(this,ManifestoContent.class);
 //            //intent.putExtra("click",1);
 //           // startActivity(intent);
 //        }

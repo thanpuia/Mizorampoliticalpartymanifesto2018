@@ -15,14 +15,14 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-//008577
+    //008577
     //START THE MENU WITH "zpm" EXTRA
     public void zpmClick(View view) {
         startActivity(new Intent(this,menu.class).putExtra("partyName","zpm"));
         Bungee.zoom(this);
-      //   Intent intent = new Intent(this,menu.class);
-      //  intent.putExtra("partyName","zpm");
-      //  startActivity(intent);
+        //   Intent intent = new Intent(this,menu.class);
+        //  intent.putExtra("partyName","zpm");
+        //  startActivity(intent);
     }
 
     //START THE MENU WITH "prism" EXTRA

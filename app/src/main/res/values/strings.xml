@@ -6,6 +6,16 @@
     <string name="mnf">MNF MANIFESTO</string>
     <string name="congress">Congress MANIFESTO</string>
 
+    <string name="zpm_content1">I. Inawpna lama hmalakna</string>
+    <string name="zpm_content2">II. Politiks lam</string>
+    <string name="zpm_content3">III. Ram hmasawnna ruangam lian</string>
+    <string name="zpm_content4">IV. Vantlang nun siam\hatna lam</string>
+    <string name="zpm_content5">V. Thil tharchhuah leh siamchhuaha intodelhna</string>
+    <string name="zpm_content6">VI. Hnathawh dan thar</string>
+    <string name="zpm_content7">VII. Inawpna lam siamthat</string>
+    <string name="zpm_content8">VIII. Thalaite pual</string>
+    <string name="zpm_content9">IX. Khuanu thilpek humhalh</string>
+
 
     <string name="zpmManifestos_bung1">
         \n
@@ -1534,7 +1544,7 @@ pek leh, hna nghet an zawnna kawngah pawh duhsakna sorkarin a pe ang.
 
     <string name="zpmManifestos_bung9">
         \n
-        
+
 
 BUNG IX\n
 KALPHUNG THAR - Khuanu Thilpek Humhalh–
@@ -1603,82 +1613,332 @@ chu a ni.
 
 
 
-    <string name="prismManifestos">
-        \n
-        no data
-    </string>
 
-    <string name="mnfManifestos">
-        \n
-      \nThe MNF Party shall endeavour to implement the following manifesto in the coming MLA Election 2018.\n
+    <string name="prism_bung1">PRISM ADMINISTRATION POLICY
+\n
+\n
+Kan chhehvela chengte sakhua aia Kristian-na that bikna tarlang tur te, kan chhehvel hnam te aia Mizo hnam ropui zawkzia tarlang tur te; Zohnahthlakte rorelna pakhat hnuaia insuihkhawmna atana kan unaute hipkhawm tur te in - kan ramah hian State sorkar huaisen, tuanrang, hnathawk chak, hautak lo neih kan duh a. Fel taka thuneihna sem zai, inawpna ruhrel zawng zawnga awmze neia hnathawk thei leh thuneihna inkhaidiat fel neih kan duh a. Mipui sorkar, mipui duhdana innghat leh mipuiin an ta neih ngei neih kan duh a. Khawvel ram ropui te um leh el turin E-Governance hman ngei kan duh a. Langtlang leh mawhphurhna hlen ngam sorkar kan duh a ni.
+\n
+Hemi hlenchhuak tur hian-
+\n\n
+1) state sorkar chak (strong central governance),
+2) thuneihna semzai (decentralized governance),
+3) mipui thua kal (participatory governance),
+4) e-governance, leh
+5) langtlang leh mawhphur (transparent and accountable governance) kalpui kan tum a.
+\n\n
+Chumi tihlawhtling tura kan hmachhawp langsar zual te chu heng hi a ni:
+\n
+1. STATE SORKAR CHAK (STRONG CENTRAL GOVERNANCE):
+\n\n
+\na) Department inangtlang enkawl minister (sectorised ministry) neih.
+\nb) Department inangtlang enkawl secretary (sectorised secretariat) neih.
+\nc) Department tihtlem leh siamrem.
+\nd) State pawna sorkar inbunna te thuam thaa hman tangkai.
+\ne) Sorkar hmalakna zinga tangkaina nei lo te tihtawp.
+\nf) Khawpui leh thingtlang khaw inawpna lak hran.
+\ng) Venhimna tha neih.
+\nh) Sorkar suihtet.
+\ni) Eizawnna siam zawnga kal.
+\n\n
+2. THUNEIHNA SEMZAI (DECENTRALISED GOVERNANCE):
+\n
+\na) Administrative District 8 neih a, District tina District Development Committee, planning leh monitoring-a thuneihna leh mawhphurhna sang tak nei neih. Department zawng zawng inawp leh inenkawlna administrative district mila kalpui. District Development Committee-ah hian district chhunga MLA zing ami chairman a hman a, district chhunga Constituency tin aiawh member-a dah a, Member Secretary atan DC hman.
+\n
+b) Civil Sub Division hi Assembly Constituency nena inmil thei ang bera a ramri siamthat. He Civil Sub-Division ramri mil hian Department zawng zawng inawp leh inenkawlna kalpui. Development Committee (Constituency Development Committee) din a, planning leh monitoring-ah thuneihna leh mawhphurhna sang tak neihtir.
+\n
+Constituency Development Committee-ah chairman atan bialtu MLA hman a, a huam chhunga khua / municipal tin aiawh member awm tir a. Assembly Constituency zinga municipal area chhunga awmah chuan Constituency Development Committee te hian Constituency Development Fund (MLA LAD Fund) an enkawl ang a, a remchan angin sorkar hnathawk zing ami Member Secretary siam a ni ang a. Constituency Development Committee dangah chuan SDO(C) te Member Secretary-ah hman an ni ang a. Anni hi chu Constituency Development Fund bak pawh sorkar hmalakna zinga a remchang apiang an hnuaiah dah a ni ang.
+\n
+c) Khaw tinah, a lian emaw a te emaw inawpna pakhat theuh awm tir a ni ang a. Khawpuiah municipal din a ni ang a. Khaw dangah pawh khaw pakhatah village council pakhat theuh din a ni ang a. Khaw te zual-ah inawpna chi hran, Israel rama Kitbutz emaw Moshav anga enkawl din a ni ang. VC leh heng khaw te awpnaah hian Secretary nghet neih dan zawngin a hranpaa recruit anih loh vek pawhin sorkar hnathawk sa hman a ni ang.
+\n
+Municipal leh Village Council hnenah hian Department 20 ve ve: Agriculture; AHandVety; DMandR; EFandCC; Excise; FCSandCA; Geology and Mineral Resources; Health; Home; Horticulture; Human Resources Development; Irrigation and Water Resources; Labour, Skill Development and Entrepreneurship; Law; Land Revenue and Settlement; Planning; RD / UDandPA; Social Welfare leh Sports and Youth Services te hmalaknaah thuneihna engemaw chen pek a ni ang.
+\n
+Village-ah chuan Village Development Committee, planning leh monitoring-a thuneihna leh mawhphurhna sang tak nei a awm ang.
+\n
+Village Court kan tichakin, a kalphung siamtha in USA-a jury an kalpui dan entawn a ni ang.
+\n
+Growth Centre thlan bik neih a ni ang.
+\nd) District Council leh SHDC pawh hnathawk thei tura siamthain Dan in thuneihna a pek te tha taka kenkawh tir an ni ang a. District Council-ah administrative reform kalpui a ni ang.
+\n\n
+3. PARTICIPATORY GOVERNANCE:
+\n\n
+Planning, implementation leh monitoring-ah administrative level tinah peoples participation a awm dawn a. Planning hi village / municipal atangin a intan dawn a. Chhiah leh fee khawn tam ber village council / municipal kutah dah a ni ang.
+\n\n
+4. E-GOVERNANCE:
+\n\n
+E-Governance kalpui a ni ang a. Village Council / Municipal office thlengin computerized vek a, internet-a thlunzawm vek a ni ang.
+\n
+\n5. TRANSPARENT and ACCOUNTABLE GOVERNANCE:
+\n\n
+RTI Section 4 tihpuitlin a ni ang a. IandPR hi sorkar hmalakna puangzar zawngin kalpui a ni ang a. Kum tin sorkar hmalakna puanzar a ni ang.
+\n
+Sorkar hnathawkte an hnathawhah mawhphurhtir a ni ang a. Project work-ah phei chuan chhan tha tak a awm loh chuan project thawh chhungin a mawhphurtu sawn an ni lo ang a. Hlawm liana agriculture and allied activity lama hmalaknaah chuan a mawhphurtu sorkar hnathawk te hna an thawh ve phal a ni ang.
+\n\n
+(PRISM MLA Election Manifesto, 2018)
+\n\n
+3. Sorkar ruhrel leh inawp dan kan siamtha ang-
+\n\n
+3A. Chief Minister-in works department chang lovin Minister-te pawh sector milin portfolio kan chantir ang. New Secretariat Complex chhungah Chief Minister office leh Secretariat zawng zawng kan dah lut ang. Minister, Member of Legislative Assembly (MLA) etc. hlawh leh facility kan titlem ang.
+\n
+3B. Administrative Reform neiin District leh Civil Sub-Division ramri siam thain department te ramri inbawhthuah kan siam tha ang. Lunglei High Powered Committee leh District Development Committee te thuneihna sang zawk kan pe ang. District Council-ah pawh administrative reform kan kalpui ang. Sinlung Hills Development Council office hi Sakawrdai-ah sawnin inthlan kan buatsaih ang. Town-ah Municipal kan din vek ang. Municipal leh Village Council te kalphung siamthain thuneihna kan pek belh ang. Village Development Committee dinin communitisation kan uar ang. Village Court siam thaa tichakin 2nd Class Magistrate thuneihna kan pe ang.
+\n
+3C. MLA kaihhruai Constituency Development Committee kan din ang a. MLA ten an bial chhungah office an nei ang.
+\n
+3D. Department awmdan ennawnin allocation of business kan siam tha ang a. Power and Electricity Department leh Printing and Stationery Department te hi corporation-ah kan let ang.)
+\n\n
+Published by:
+PRISM Publication Cell</string>
+    <string name="prism_bung2">
+PRISM LAND REFORM POLICY\n\n
+
+Mitinin in leh ram kan neih a, kan ram hi kan hman tangkai a, kan humhalh a, ram nuam leh hrisel anih theih nana kan hmachhawp langsar zual te chu heng hi a ni:
+\n\n
+1. Ram neilo chhungkua kan awm loh nan ram neilo chhungkua te ram kan pe ang a. Ram pek thar tur te hi land development plan milin survey sa ramah a hlawmin pek a ni ang a. Ram leh ram inkarah ram ruak kan dah zel ang.
+\n\n
+2. In neilo chhungkua te inhmun kan pe ang a. Ram neilo chhungkua kan awm loh nan ram neilo chhungkua te ram kan pe ang a. Inhmun pek thar tur te hi land development plan leh town / village master plan milin survey sa ramah a hlawmin pek a ni ang a. Inhmun leh inhmun inkarah ram ruak kan dah zel ang.
+\n\n
+3. Ram nei zawng zawng an ram neih dan kan chhinchhiah vek ang a. Land Pass chi hrang hrang mai bakah VC Pass leh Lal lal lai atanga ram inrochun zawng zawng pawh, a awmsa chu kan pawm vek ang a. Chhinchhiahna bupui siamin a vaiin kan ziak lutin kan chhinchhiah vek ang.
+\n\n
+4. Ram chhiah khawn hna Municipal leh Village Council (Panchayati Raj) te kutah kan dah ang.
+\n\n
+5. Forest Department in an intihneih tuna ram tam tak hi kan chhuhsak ang a. Forest Reserve Area chhunga awm mipui chenna lai leh eizawn nana ram tha laite mipui tan kan la let ang. Tut-Langkaih Forest Reserved phei chu a pumpuiin kan dereserve ang.
+\n\n
+6. Hmang tangkai si lova ram zau pui pui neite ram kan chhuhsak ang.
+\n\n
+7. Thingtlang khuaah Safety Reserved leh Supply Reserved kan siam leh ang a. Khawpui dai leh khaw chhung remchangah ram ruak, ngaw tur kan siam ang.
+\n\n
+(PRISM MLA Election Manifesto)
+\n\n
+9A. Land reform kalpuiin hmang tangkai si lova ram zau pui pui neite ram chhuhsakin ram nei lote ram kan pe ang. Forest Reserve Area chhunga awm mipui chenna lai leh eizawn nana ram tha laite mipui tan kan la let ang.)
+
+Published by:
+PRISM Publication Cell</string>
+    <string name="prism_bung3">
+PRISM FINANCIAL POLICY
+\n\n
+Mizoram hi intodelh a, India atanga pawisa kan hmuh thin tel miah lo pawha inenkawl thei tura siam kan tum.
+\n\n
+Chumi tihlawhtling tura kan hmachhawp langsar zual te chu heng hi a ni:
+\n\n
+1. Tuna kan sorkarin sorkar inrelbawlna (revenue expenditure) atana kan budget atanga za zela sawmkua (90%) aia tam a hmang a, hmasawnna hnathawh nana budget atanga za zela sawm (10%) pawh a hmang pha lo hi siamthat a. Sum hmanna zinga a lova awm theih te titawpin sorkar inrelbawlna (revenue expenditure) atan budget atanga za zela sawmruk (60%) aia sang lo hman a, hmasawnna hnathawhnan budget atanga za zela sawmli (40%) aia tlem lo hman tum a ni.
+\n\n
+2. Sorkar atanga sum pekchhuah te pawisa faia pekchhuah loh tur a ni a. A dawngtu tur bank account-a dahluh sak (direct benefit transfer) a kalpui a ni ang.
+\n\n
+3. Infrastructure lian tham - hydel project, paper mill leh industry lian dang dinna, hlawm liana ram tha bawhna leh kawngpui enkawlnaah hlawm lianin sum hman a ni ang a. Department leh agency hrang hrang zinga hna an thawh loha mipuiin kan buai phah lohna te chu hna thawk lova dah fo an ni ang.
+\n\n
+4. Khaw inawpna te chhiah leh bill hrang hrang khawn tirin sum tam tham tak thawkchhuak tura buatsaih an ni ang.
+\n\n
+5. Insurance Company siamin, sorkar budget tiat deuhthaw sum tuak-chhuakin, heng sum te hi Mizoramah hman (invest) a ni ang.
+\n\n
+6. Real estate nasa taka kalpui a ni ang.
+\n\n
+7. Kan thing leh mau neih sa hlawk zawka suma chan tir a ni ang.
+\n\n
+8. Look West Policy kalpuiin Bangladesh nen insumdawn tawnna tha tak siam a ni ang a.
+\n\n
+9. Myanmar ram hausakna hman tangkai a ni ang.
+\n\n
+10. Industry din kawngah te, sports hmasawnna lamah te mihausain an sum an hman theihnan taxation policy-ah ruahmanna tha tak siam a ni ang a; a tul anga Dan leh Policy dang pawh siamin mihausa te ram hmasawn nan nasa taka inhmantir a ni ang.
+\n\n
+(PRISM MLA Election Manifesto)
+\n\n
+3E. Financial Reform kalpuiin hlawk lo leh a lova awm theih sum hmanna te titawpin, facility entitlement kan ennawn ang. Participatory planning kalpuiin Performance Budget kan hmang ang. Sorkar atanga sum pekchhuah Direct Benefit Transfer vekin kan kalpui ang. Taxation Policy siama sum tam zawk thawkchhuak tura hma lain; Mizorama tharchhuah leh ramhmul sawngbawlna industry din te, khawtlang leh mipui hmasawnna kawnga hma la te chhiah awl theih dan kan siam ang.)
+\n\n
+Published by:
+PRISM Publication Cell</string>
+
+    <string name="prism_bung4">
+PRISM MLA ELECTION MANIFESTO, 2018
+(English Version)
+\n\n
+1. Security-
+\n\n
+Secure territorial boundary, religion, political status and rights. Increase share from natural resources and hydel projects. Strictly enforce innerline regulation; and protect people from militancy, drug smuggling, arm smuggling, narcotic drug abuse and harmful use of alcohol, and human trafficking. Strengthen and enlarge police forces. Introduce Village Population Register. Transfer administrative control of Innerline Reserved Forest from Assam to Mizoram.
+\n\n
+2. Youth Empowerment-
+\n\n
+2A. Generate not less than one lakh and fifty thousand new employments, and introduce unemployment allowance from 2020. Introduce Work Permit system for migrant workers and impose tax upon them.
+\n
+2B. Promote seeking job prospects in foreign and other Indian states and set up policy to avail loan facility. Establish International Qualification Examination Centre and Visa Processing Centre.
+\n
+2C. Strengthen Mizoram Public Service Commission and establish State Staff Selection Commission; and establish Coaching Centre for Union Public Service Commission and Staff Selection Commission examination and training centre for army recruitment in each district.
+\n
+2D. Introduce Education Reform and eliminate age bar to become a teacher. Strengthen Polytechnics and Industrial Training Institutes and extend by affiliating private workshops and institutions, and arrange cooperation with banks. Recognize theological (eg. Aizawl Theological College, Academy of Integrated Christian Studies etc.) degree. Open MZU campus in Lunglei.
+\n
+2E. Train youths by establishing agencies, infrastructures and placement facilities for all new employments in the railways, oil and gas exploration, airport, hydel projects and newly establish industries.
+\n
+2F. Introduce Sports Policy to cultivate professionalism in sports. Provide tax exemption in Taxation Policy for sports association, club, sportsperson and sponsor. Specially promote sports with criteria for weight category and establish Arena for contact sports. Make law provisions to stop politicization of sports association.
+\n
+2G. Construct parks and resorts for youth recreation and tourism promotion. Promote National Cadet Corps, Adventure Club etc. to boost efficiency of youths and children.
+\n\n
+3. Administratrive Reform-
+\n\n
+3A. Run sectorise ministry with Chief Minister without not holding works departments. Shift Chief Minister’s Office and all Secretariats inside New Secretariat Complex. Scale down salaries and facilities of Ministers, Members of Legislative Assembly etc.
+\n
+3B. Introduce Administrative Reform to reorganize Districts and Civil Sub-Divisions and eliminate overlapping department’s administrative boundaries. Empower Lunglei High Powered Committee and District Development Committees. Shift the office of Sinlung Hills Development Council at Sakawrdai. Establish municipality in all towns. Reform and empower municipals and village councils. Encourage communitisation with establishing Village Development Committees. Reform Village Court and empower to 2nd Class Magistrate status.
+\n
+3C. Form Constituency Development Committees headed by the respective MLAs. Open office for all MLAs in their respective Constituency.
+\n
+3D. Rationalize all departments and re-allocate their businesses. Corporatize Power and Electricity Department and Printing and Stationery Department.
+\n
+3E. Introduce Financial Reform to stop unnecessary public spendings, and amend facility entitlements. Introduce participatory planning and performance budgeting. Implement Direct Benefit Transfer in public disbursement. Enact Taxation Policy to increase public receipt with providing tax exemption for industries which process local products and invest in state and peoples development.
+\n
+3F. Make uniform data and establish ‘Data Bank’.
+\n\n
+4. Law and Order-
+\n\n
+Ministers and MLAs will abide by laws and be punctual. Enforce law strictly, make public servants responsible and accountable with secure their rights and status. Strictly enforce General Financial Rules, Central Treasury Rules, Central Civil Services (Conduct) Rules, Central Civil Services (Pension) Rules, Central Service (Medical Attendance) Rules and Central Public Works Department Manual.
+\n\n
+5. Transparency-
+\n\n
+Fully implement Section 4 of the Right to Information Act, 2005 (RTI). Declare political parties as Public Authority under RTI. Publish assets and liabilities of Ministers, MLAs, etc. annually. Lay and discuss all reports of Assembly Committees in Assembly Session. Government achievements especially relating to this election manifesto will be publicised annually.
+\n\n
+6. Anti Corruption-
+\n\n
+Arrest corrupt persons and not only punish with relevant laws, but also recover their corrupted amount from their assets by the Mizoram Public Servant Personal Liability Act. Establish sharp teeth Lokayukta. Strengthen Special Court (Prevention of Corruption Act) with enacting law provision to prohibit postponement of hearing if it is not postpone before seven days of hearing. Protect and encourage whistleblowers and witnesses. Strictly enforce Central Civil Services (Classification, Control and Appeal) Rules. Enforce and enlarge Anti Corruption Bureau and Public Works Department’s Quality Control Division and give general consent to the Central Bureau of Investigation.
+\n\n
+7. Welfare of General Public-
+\n\n
+7A. Distribute ration and cooking gas in correct weight by reinforcing Targeted Public Distribution System (TPDS); and distribute rice, sugar, kerosene oil and cooking oil through TPDS.
+\n
+7B. Make Mizoram Health Care Society more efficient and user friendly. Reform health services to generate new employments. Appoint more doctors. Better equipt Hospitals and Health Sub Centres.
+\n
+7C. Establish Labour Court to protect labour rights. Enforce labour laws to promote safe and secure working environments for all workers by providing pension, medical, leave and accidental benefits in private sector. Establish Insurance Company not only to stop drain of wealth and user friendly of insurance, but also to increase public receipt and welfare of general public.
+\n
+7D. Establish Centres for old age in and at wards of municipals and villages, and equip with entertainment facilities, pety income earning facilities and medical facilities. Increase old age monthly pension at Rs 1,000 for 70 – 79 years, Rs 1,500 for 80 – 89 years and Rs 2,000 for 90 and above years of age.
+\n
+7E. Promote women empowerment. Ensure nutritional and medical facilities for children, adolescent, pregnant and post natal women. Introduce maternity benefit for pregnant workers in private sector.
+\n
+7F. Alotthouse pass to landless and implement housing for all programmes. Make employment for beggars to make Beggar Free State. Work to become Below Poverty Line (BPL) Family Free State.Appoint efficient Persons with Disabilities Commissioner to ensure their rights and welfares.Promote rehabilitation of drug and alcohol abusers with special provision in employment generation programmes. Provide petty income earning opportunity for inmates of Jails and Rehabilitation Centres.
+\n
+7G. Work to eliminate market problem of tree planters.
+\n\n
+8. Natural Resource and Infrastructure Utilization-
+\n\n
+Make more efficient use of natural resources and running and sick industrial and commercial units. Privatise or outsource management of all government infrastructures which can use as commercial unit.
+\n\n
+9. Development Infrastructure Establishment-
+\n\n
+9A. Cancel unutilise land pass and give land to landless by introducing Land Reform. Dereserve settlement and highly development work potential portion of Forest Reserved areas.
+\n
+9B. Make Mizoram as Industrial State. Etablish Paper Mill, Saw Mill and Plywood Mill to utilize natural bamboo and wood resources. Sectorise all lands in Crop Zones and establish food processing industries in relation with those Zones. Ensure all these industries to make partnership (contract) farming facilities by which farmers have clear market to sell their products. Work in compact areas in different large agri and allied potential lands and connect with with industries, roads, electricity, water and housing facilities. Purchase farmers products under Integrated Child Development Scheme and other nutritional schemes.
+\n
+9C. Constructs Bairabi HEP (80 MW), Tuivai HEP (210 MW) and Kolodyne Phase II HEP (460 MW) and cancel other hydel project plans. Promote solar energy production, with special focus for farm electrification to enable farmers to use IT and electronic gadgets.
+\n
+9D. Construct new roads with having Road Policy. Maintain good road to Bangladesh, Myanmar, Assam, Manipur and Tripura. Outsource road maintenance. Construct Border Ring Road.
+\n
+9E. Reserve all new employments for Mizo people in and near new railway stations. Work to make reservation for Mizo people in railway maintenance and service.
+\n
+9F. Improve and enlarge Lengpui Airport. Try to construct new Airport in southern region.
+\n
+9G. Explore confirmed oil and natural gas assets. Try to establish oil refinery inside the state.
+\n
+9H. Make Mizoram as Digital State by laying Optical Fibre Cable (OFC) from Silchar to Aizawl, and connect all houses with fibre cable by introducing Fibre to Home (FTH) programme. Try to join International Gateway at Bangladesh (Cox Bazar).
+\n
+9I. Expand and reconstruct Aizawl and other towns to ensure safety from earthquake and other natural disasters, fire, terrorism, militancy and burglary. Make better waste management system for public health. Construct parks and resorts in and near city and towns to make more comfortable for residents and promotion of tourism. Widen city and town roads and streets. Construct ropeways. Make villages more comfortable, healthy and secure; and re-plan and re-allocate roads, streets and houses for future better settlement.
+\n
+9J. Improve utilization of streams inside towns and villages and promote rain water harvesting to increase water supply and minimize cost of water supply.
+\n\n
+10. Trade and commerce-
+\n\n
+Implement Tlabung Border Trade Centre with ‘Look West Policy’. Establish Auction Centres in border trade centres, railway stations and other relevant business places by introducing Regulated Market and good market information system to create better market opportunity for farmers and entrepreneurs. Impose essential commodities importers to buy farmers products equal to their import amount if and when there is no market for farmers. Import natural resources and forest produces of Myanmar and export them after value addition.
+\n\n
+11. UN SDG Implementation- (UN SDG kan tipuitling ang)
+\n\n
+Try to implement 2030 targeted 17 UN Sustainable Development Goals – end poverty; end hunger; ensure healthy lives; ensure inclusive and quality education; achieve gender equality; ensure access to water and sanitation; ensure access to energy; promote economic growth; build resilient infrastructure; reduce inequality; make sustainable cities and communities; ensure sustainable consumption and production; combat climate change; conserve rivers and forests; promote just, peaceful and inclusive societies; and revitalize global partnership for sustainable development.
+\n\n
+12. Environment Protetion- (Environment kan humhim ang)
+\n\n
+Make Environment Policy to ensure protection of environments while establishing development infrastructures. Promote afforestation and reforestation to combat climate change, soil erosion, rapid decreasing streams and river waters. Revitalise safety reserve and supply reserve in all villages. Make forest in and around towns and cities. Afforest and reforest Roadside Reserve. Make forest corridor joining all Reserved and Protected Forest for freely roaming and migration of animals and birds. Use fruit and flower bearing plants for afforestation and reforestation to produce sufficient foods for animals and birds to increase animals and birds.
+\n\n
+Published by:
+PRISM Publication Cell
+\n\n
+*******
+</string>
+
+
+
+    <string name="mnf_bung1">
 POLITICAL:\n
-    1. In tune with \'the VN Declaration on the right of Indegeneous people, dated 13.9.2007, the MNF shall strife towards achieving Mizo integration under one administrative umbrella.\n
-    2. In line with the provision of Mizoram Peace Accord, Mizo culture .and religious practices, shall always be upheld and protected.\n
-    3. The provision of permanent peace as visualised in the Memorandum of Settlement 1986, the MNF Party shall endeavour to maintain peace in the State of Mizoram. However, some provisions of the peace accord, which are not yet implemented properly, shall have to be implemented.\n
-    4. Special scheme shall be drawn-up for the Martars and their families, including rehabilitation and resettlement of all the underground personnels, in line with the provisions of the Memorandum of Settlement, 1986.\n
-    5. Mizoram State Boundaries shall be protected and the welfare of the people residing in the border areas, shall be looked into.\n
-    6. Along the line and principles of National Registration of Citizenship, the MNF shall introduce village Register, for the purpose of determining genuine citizens and for detecting illegal immigrants.\n
-    7. As provided in the Memorandum of Settlement, minority tribes inside Mizoram, shall be well-looked after.\n
-    8. Step will be taken to implement Border Trade in line with the provisions of Memorandum of Settlement, 1986.\n\n
+1. In tune with \'the VN Declaration on the right of Indegeneous people, dated 13.9.2007, the MNF shall strife towards achieving Mizo integration under one administrative umbrella.\n
+2. In line with the provision of Mizoram Peace Accord, Mizo culture .and religious practices, shall always be upheld and protected.\n
+3. The provision of permanent peace as visualised in the Memorandum of Settlement 1986, the MNF Party shall endeavour to maintain peace in the State of Mizoram. However, some provisions of the peace accord, which are not yet implemented properly, shall have to be implemented.\n
+4. Special scheme shall be drawn-up for the Martars and their families, including rehabilitation and resettlement of all the underground personnels, in line with the provisions of the Memorandum of Settlement, 1986.\n
+5. Mizoram State Boundaries shall be protected and the welfare of the people residing in the border areas, shall be looked into.\n
+6. Along the line and principles of National Registration of Citizenship, the MNF shall introduce village Register, for the purpose of determining genuine citizens and for detecting illegal immigrants.\n
+7. As provided in the Memorandum of Settlement, minority tribes inside Mizoram, shall be well-looked after.\n
+8. Step will be taken to implement Border Trade in line with the provisions of Memorandum of Settlement, 1986.\n\n
+</string>
+    <string name="mnf_bung2">
 ADMINISTRATION:\n
 The MNF Party shall establish transparent Government along the line and principles of Good Governance. The MNF Party shall carry on good works which were initiated by the previous government.\n
-    1. In order to check corruption, the MNF Government shall establish vigilance commission/Lok Ayukta.\n
-    2. The MNF shall try to form a government in tune with the principles of transparency and R.T.I Act 2005.\n
-    3. In line with the principles of decentralisation, the MNF Government shall strengthen Aizawl Municipal Corporation and Local Councils. More Municipal Councils/Boards shall be established in all District Capitals and Sub-Divisional towns within the framework of Indian Constitution.\n
-    4. In pursuance of provision under Articles 243 of the Indian Constitution, District Development Council and Village Councils shall be established wherever practicable and necessary.\n
-    5. The MNF GoveTment shall try to enforce merit selection in matters of recruitment and promotion of Government servants. Effort shall be made to review and revise the working system of Employment Exchange and Mizoram Public Service Commission, so as to ensure impartiality.\n
-    6. E-Governance shall be introduced in all Department.\n
-    7. The Mizoram Land Revenue Act 2013 shall be reviewed and revised. New chapter shall be introduced in matters of land reform, establishment of Revenue Tributional and to standardise the Mizoram Urban Areas Rent Control Act.\n
-    8. In matters of contract works and supply of materials preferential treatment shall be given to the citizen of Mizoram.\n
-    9. Rules and Regulations under State Transport Authority governing vehicle condemnation, tax system and permit system, shall be reviewed and revised.\n
-    10. Welfare of the Ex-Service people, Muster —Roll and Contractual Workers shall be looked into and systematised.\n
-    11. The Assam Rifle centres shall be shifted to Zokhawsang and the buildings and lands shall be utilised for public purpose only.\n
-    12. In order to make better administration in State Capital and District Capitals, new Civic Law shall be introduced.\n
-    13. Rules governing contract works under Public Works Department (PWD) shall be reviewed and revised.\n\n
+1. In order to check corruption, the MNF Government shall establish vigilance commission/Lok Ayukta.\n
+2. The MNF shall try to form a government in tune with the principles of transparency and R.T.I Act 2005.\n
+3. In line with the principles of decentralisation, the MNF Government shall strengthen Aizawl Municipal Corporation and Local Councils. More Municipal Councils/Boards shall be established in all District Capitals and Sub-Divisional towns within the framework of Indian Constitution.\n
+4. In pursuance of provision under Articles 243 of the Indian Constitution, District Development Council and Village Councils shall be established wherever practicable and necessary.\n
+5. The MNF GoveTment shall try to enforce merit selection in matters of recruitment and promotion of Government servants. Effort shall be made to review and revise the working system of Employment Exchange and Mizoram Public Service Commission, so as to ensure impartiality.\n
+6. E-Governance shall be introduced in all Department.\n
+7. The Mizoram Land Revenue Act 2013 shall be reviewed and revised. New chapter shall be introduced in matters of land reform, establishment of Revenue Tributional and to standardise the Mizoram Urban Areas Rent Control Act.\n
+8. In matters of contract works and supply of materials preferential treatment shall be given to the citizen of Mizoram.\n
+9. Rules and Regulations under State Transport Authority governing vehicle condemnation, tax system and permit system, shall be reviewed and revised.\n
+10. Welfare of the Ex-Service people, Muster —Roll and Contractual Workers shall be looked into and systematised.\n
+11. The Assam Rifle centres shall be shifted to Zokhawsang and the buildings and lands shall be utilised for public purpose only.\n
+12. In order to make better administration in State Capital and District Capitals, new Civic Law shall be introduced.\n
+13. Rules governing contract works under Public Works Department (PWD) shall be reviewed and revised.\n\n
+</string>
+    <string name="mnf_bung3">
 ECONOMIC DEVELOPMENT PROGRAMMES\n
-    1. Steps shall be taken as soon as MNF. Ministry is formed to implement Socio­Economic Development Programmes (SEDP), as enshrined in the booklet.\n
-    2. In order to achieve Self Sufficiency in the production of food stuff, assistances for farmers and other workers shall be given as soon as possible, in tune with the SEDP guidelines.\n
-    3. Apart from giving necessary aid and assistance, to the workers new marketing system shall . be introduced to facilitated selling of farm produces and other products. Such facilities shall include minimum support price system, "subsidies, insurance and rebate, etc.\n
-    4. Food Processing Industries shall be given priorities special attention shall be given to Ginger cultivation and ginger markets.\n
-    5. Special Development Scheme (in a cluster system) shall be worked out, to facilitated all kind of manual workers, in the process of cultivation processing, manufacturing and marketing.\n
-    6. As envisaged in the scheme of SEDP, effort shall be made to initiate various industries, including farming, manufacturing, mining, Eco-Tourism, adventure tourism. Agro and Forest- based Industries including bamboo processing, herbal and pharmaceutical and service industries, shall be given utmost attention.\n
-    7. Worker facility schemes such as — Accidental insurance (PMJJY), Health Care Scheme, Crop Insurance (PMFBY), Group Insurance (under SBI Scheme) and E.P.F shall be effectively implemented.\n
-    8. Worker Facility Scheme under Mizoram Building and other Construction Workers Welfare Board shall be reviewed and revised.\n
-    9. Standard Vegetable shops, meat shops and other requirements shall be introduced.\n\n
+1. Steps shall be taken as soon as MNF. Ministry is formed to implement Socio­Economic Development Programmes (SEDP), as enshrined in the booklet.\n
+2. In order to achieve Self Sufficiency in the production of food stuff, assistances for farmers and other workers shall be given as soon as possible, in tune with the SEDP guidelines.\n
+3. Apart from giving necessary aid and assistance, to the workers new marketing system shall . be introduced to facilitated selling of farm produces and other products. Such facilities shall include minimum support price system, "subsidies, insurance and rebate, etc.\n
+4. Food Processing Industries shall be given priorities special attention shall be given to Ginger cultivation and ginger markets.\n
+5. Special Development Scheme (in a cluster system) shall be worked out, to facilitated all kind of manual workers, in the process of cultivation processing, manufacturing and marketing.\n
+6. As envisaged in the scheme of SEDP, effort shall be made to initiate various industries, including farming, manufacturing, mining, Eco-Tourism, adventure tourism. Agro and Forest- based Industries including bamboo processing, herbal and pharmaceutical and service industries, shall be given utmost attention.\n
+7. Worker facility schemes such as — Accidental insurance (PMJJY), Health Care Scheme, Crop Insurance (PMFBY), Group Insurance (under SBI Scheme) and E.P.F shall be effectively implemented.\n
+8. Worker Facility Scheme under Mizoram Building and other Construction Workers Welfare Board shall be reviewed and revised.\n
+9. Standard Vegetable shops, meat shops and other requirements shall be introduced.\n\n</string>
+
+    <string name="mnf_bung4">
 INFRASTRUTURE DEVELOPMENT\n
-    1. The existing State and National Highways shall be properly maintained. New roads connecting East-West and North-South shall be constructed wherever necessary. Attempt will be made to make inland water- ways by development river courses.\n
-    2. For the benefits of farmers, economic roads and agriculture link roads shall be constructed wherever necessary.\n
-    3. Lengpui Airport shall be improved in all possible ways, so as to enable cargo plane operations. Attempt will be made for New airport in the Southern area of Mizoram.\n
-    4. Lunglei town shall be further developed by creating more facilities and amenities for its population. Lunglei High Power Committee shall be given more power and funds. Attempt will be made to established different offices like Area Commissioner Office, University Campus, Police Southern Range, etc.\n
-    5. Attempt will be made to make Mizoram Self Sufficient in matters of power generation. Utmost effort shall be made to generate Solar Energy, and other renewable energy apart from tapping hydro-power energy.\n
-    6. Tourist Resorts and Institute of Hotel Management, initiated by the MNF -Ministry in 2008, shall be taken up afresh and improved. And Eco-Tourism shall be given high priority.\n
-    7. Attempt will be made to construct more FCI Godowns, Gas Bottling Plants and Petroleum Oil Depots.\n
-    8. Effort shall be made to complete Oil and Gas survey and explorations so as to speed up economic development of the State.\n
-   SOCIAL DEVELOPMENT AND SOCIAL SECURITY\n
-    1. The MLPC Act 2014 shall be withdrawn forthwith. Better and improved Rehabilitation Centres shall be established in Cooperation with NGO's and Churches.\n
-    2. Hospital and Health: Centres shall be better equipped. Shortage of Doctor and Nurses shall be met by recruiting more doctors and nurses.\n
-    3. Mizoram State Health Care Scheme will be revised and implemented.\n
-    4. Old-age pension shall be awarded to all persons who are within the bracket. of old-age pension scheme.\n
-    5. The PWD Act shall be applied to all cases of physical and mental handicapcy, throughout Mizoram.\n
-    6. Women and Child right shall be enforced in right earnest.\n
-    7. Grant of relief shall be given immediately to the victims of national calamities. In the case of death of the sole bread-earner of the family a scheme shall be drawn up to bring up and support the minors of the family.\n
-    8. Public distribution system of essential commodities shall be upgraded, so as to cater the need of the consumers better. The MNF government shall try to improve, LPG distribution, water and electric supply.\n
-    9. Attempt will be made to provide House site for those who are homeless and helpless.\n
-    10. Utmost effort shall be made in all possible ways, to revive Mizo Tlawmngaihna (which spring-out from the spirit of natural principle of justice, honesty, fairness, perseverance and selflessness).\n\n
+1. The existing State and National Highways shall be properly maintained. New roads connecting East-West and North-South shall be constructed wherever necessary. Attempt will be made to make inland water- ways by development river courses.\n
+2. For the benefits of farmers, economic roads and agriculture link roads shall be constructed wherever necessary.\n
+3. Lengpui Airport shall be improved in all possible ways, so as to enable cargo plane operations. Attempt will be made for New airport in the Southern area of Mizoram.\n
+4. Lunglei town shall be further developed by creating more facilities and amenities for its population. Lunglei High Power Committee shall be given more power and funds. Attempt will be made to established different offices like Area Commissioner Office, University Campus, Police Southern Range, etc.\n
+5. Attempt will be made to make Mizoram Self Sufficient in matters of power generation. Utmost effort shall be made to generate Solar Energy, and other renewable energy apart from tapping hydro-power energy.\n
+6. Tourist Resorts and Institute of Hotel Management, initiated by the MNF -Ministry in 2008, shall be taken up afresh and improved. And Eco-Tourism shall be given high priority.\n
+7. Attempt will be made to construct more FCI Godowns, Gas Bottling Plants and Petroleum Oil Depots.\n
+8. Effort shall be made to complete Oil and Gas survey and explorations so as to speed up economic development of the State.\n
+</string>
+
+    <string name="mnf_bung5">
+SOCIAL DEVELOPMENT AND SOCIAL SECURITY\n
+1. The MLPC Act 2014 shall be withdrawn forthwith. Better and improved Rehabilitation Centres shall be established in Cooperation with NGO\'s and Churches.\n
+2. Hospital and Health: Centres shall be better equipped. Shortage of Doctor and Nurses shall be met by recruiting more doctors and nurses.\n
+3. Mizoram State Health Care Scheme will be revised and implemented.\n
+4. Old-age pension shall be awarded to all persons who are within the bracket. of old-age pension scheme.\n
+5. The PWD Act shall be applied to all cases of physical and mental handicapcy, throughout Mizoram.\n
+6. Women and Child right shall be enforced in right earnest.\n
+7. Grant of relief shall be given immediately to the victims of national calamities. In the case of death of the sole bread-earner of the family a scheme shall be drawn up to bring up and support the minors of the family.\n
+8. Public distribution system of essential commodities shall be upgraded, so as to cater the need of the consumers better. The MNF government shall try to improve, LPG distribution, water and electric supply.\n
+9. Attempt will be made to provide House site for those who are homeless and helpless.\n
+10. Utmost effort shall be made in all possible ways, to revive Mizo Tlawmngaihna (which spring-out from the spirit of natural principle of justice, honesty, fairness, perseverance and selflessness).\n\n
+</string>
+
+    <string name="mnf_bung6">
 EDUCATION and YOUTH AFFAIRS\n
-    1. School Calendar and School timing shall be revised and re-adjusted so as to suit Mizo work 'culture and food habit.\n
-    2. Student Scholarship shall be paid in a timely 'manner and student loan for higher studies shall be made available to all deserving students.\n
-    3. System of education shall be reformed to heighten educational standard comparable with the education standard in any other advanced countries.\n
-    4. Existing educational Institution shall .be upgraded and improved. Various need of the teachers and students may be provided. Shortage of teachers shall be addressed.\n
-    5. Service facilities such as Provident Fund, Pension, Health Insurance shall be given to all workers who are serving under different scheme of centrally sponsored programmes. Teachers working in Private and aided schools, including school run by the churches shall also be given similar facilities.\n
-    6. Institute for medical studies, para-medical, engineering, Technology and Management shall be established as soon as possible.
-    7. In order to enable bright students to study in foreign countries, step will be taken for Man-Power Development.\n
-    8. Sports policy shall be framed in tune with the provisions of Olympics charter. Sports facilities shall be provided to all Institutions and Academy. More fund will be provided in Sports budget.\n
-    9. Incentive Award scheme shall be drawn up so as to attract young students who will be-able to quality themselves for All India Services and Military Services.\n
-    10. Student hostel shall be established in all District Headquarters if needed.\n
-    11. Entrepreneurship Training shall be taken up on thrust programme basis.\n
-*********************
-    </string>
+1. School Calendar and School timing shall be revised and re-adjusted so as to suit Mizo work \'culture and food habit.\n
+2. Student Scholarship shall be paid in a timely manner and student loan for higher studies shall be made available to all deserving students.\n
+3. System of education shall be reformed to heighten educational standard comparable with the education standard in any other advanced countries.\n
+4. Existing educational Institution shall .be upgraded and improved. Various need of the teachers and students may be provided. Shortage of teachers shall be addressed.\n
+5. Service facilities such as Provident Fund, Pension, Health Insurance shall be given to all workers who are serving under different scheme of centrally sponsored programmes. Teachers working in Private and aided schools, including school run by the churches shall also be given similar facilities.\n
+6. Institute for medical studies, para-medical, engineering, Technology and Management shall be established as soon as possible.
+7. In order to enable bright students to study in foreign countries, step will be taken for Man-Power Development.\n
+8. Sports policy shall be framed in tune with the provisions of Olympics charter. Sports facilities shall be provided to all Institutions and Academy. More fund will be provided in Sports budget.\n
+9. Incentive Award scheme shall be drawn up so as to attract young students who will be-able to quality themselves for All India Services and Military Services.\n
+10. Student hostel shall be established in all District Headquarters if needed.\n
+11. Entrepreneurship Training shall be taken up on thrust programme basis.\n</string>
+
 
 
     <string name="congressManifestos">

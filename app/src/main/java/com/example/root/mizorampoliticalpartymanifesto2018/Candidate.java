@@ -164,17 +164,16 @@ public class Candidate extends AppCompatActivity {
         public View getView(int position, View convertView, ViewGroup parent) {
             convertView = getLayoutInflater().inflate(R.layout.candidatedetails, null);
 
-          //  ImageView imageView = findViewById(R.id.candidateImageView);
-           // imageView.setVisibility(View.GONE );
-           // TextView candidateName = findViewById(R.id.candidateName);
-           // TextView candidateBial = findViewById(R.id.candidateBial);
-            TextView candidateNetWorth = findViewById(R.id.candidateNetWorth);
+            //  ImageView imageView = findViewById(R.id.candidateImageView);
+            // imageView.setVisibility(View.GONE );
+            // TextView candidateName = findViewById(R.id.candidateName);
+            // TextView candidateBial = findViewById(R.id.candidateBial);
             android.widget.TextView candidateName= (android.widget.TextView)convertView.findViewById(R.id.candidateName);
             android.widget.TextView candidateBial= (android.widget.TextView)convertView.findViewById(R.id.candidateBial);
 
             if(message.equals("zpm")){
 
-//                Intent intent = new Intent(getApplicationContext(),ZpmManifestoContent.class);
+//                Intent intent = new Intent(getApplicationContext(),ManifestoContent.class);
 //                startActivity(intent);
                 candidateName.setText(zpmCandidate[position]);
                 candidateBial.setText(zpmCandidate_bial[position]);
