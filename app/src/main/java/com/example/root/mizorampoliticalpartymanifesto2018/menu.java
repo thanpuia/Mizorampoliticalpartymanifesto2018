@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
+import spencerstudios.com.bungeelib.Bungee;
+
 public class menu extends AppCompatActivity {
 
     public String message;
@@ -18,21 +20,54 @@ public class menu extends AppCompatActivity {
         bundle = getIntent().getExtras();
         message = bundle.getString("partyName");
 
+        if(message.equals("zpm"))
+            getSupportActionBar().setTitle("ZPM");
+
+        if(message.equals("prism"))
+            getSupportActionBar().setTitle("PRISM");
+
+        if(message.equals("congress"))
+            getSupportActionBar().setTitle("Congress");
+
+        if(message.equals("mnf"))
+            getSupportActionBar().setTitle("MNF");
+
     }
+
 
     public void manifestClick(View view) {
 
-        Intent intent = new Intent(this,Manifestos.class);
-        intent.putExtra("partyName", message);
-        startActivity(intent);
+
+
+        if(message.equals("zpm")) {
+
+            startActivity(new Intent(this,ZpmManifestoContent.class));
+            Bungee.zoom(this);
+//
+//            Intent intent2 = new Intent(this,ZpmManifestoContent.class);
+//         //   intent2.putExtra("partyName", message);
+//            startActivity(intent2);
+        }else {
+
+            startActivity(new Intent(this,Manifestos.class).putExtra("partyName",message));
+            Bungee.zoom(this);
+//            Intent intent = new Intent(this,Manifestos.class);
+//            intent.putExtra("partyName", message);
+//            startActivity(intent);
+
+        }
 
     }
 
     public void candidateClick(View view) {
         /*Toast.makeText(this,message,Toast.LENGTH_SHORT).show();*/
-        Intent intent = new Intent(this,Candidate.class);
-        intent.putExtra("partyName", message);
-        startActivity(intent);
+//
+        startActivity(new Intent(this,Candidate.class).putExtra("partyName",message));
+        Bungee.zoom(this);
+
+//        Intent intent = new Intent(this,Candidate.class);
+//        intent.putExtra("partyName", message);
+//        startActivity(intent);
     }
 
 }

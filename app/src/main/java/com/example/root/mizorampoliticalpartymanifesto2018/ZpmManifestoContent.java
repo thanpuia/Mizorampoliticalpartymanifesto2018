@@ -5,6 +5,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+import spencerstudios.com.bungeelib.Bungee;
+
 public class ZpmManifestoContent extends AppCompatActivity {
 
     @Override
@@ -14,49 +16,67 @@ public class ZpmManifestoContent extends AppCompatActivity {
     }
 
     public void oneClick(View view) {
-        Intent intent = new Intent(this,ZpmManifestoPage.class);
-        intent.putExtra("click",1);
-        startActivity(intent);
+        startActivity(new Intent(this,ZpmManifestoPage.class).putExtra("click",1));
+        Bungee.zoom(this);
+//        Intent intent = new Intent(this,ZpmManifestoPage.class);
+//        intent.putExtra("click",1);
+//        startActivity(intent);
     }
     public void twoClick(View view) {
-        Intent intent = new Intent(this,ZpmManifestoPage.class);
-        intent.putExtra("click",2);
-        startActivity(intent);
+        startActivity(new Intent(this,ZpmManifestoPage.class).putExtra("click",2));
+        Bungee.zoom(this);
+//        Intent intent = new Intent(this,ZpmManifestoPage.class);
+//        intent.putExtra("click",2);
+//        startActivity(intent);
     }
     public void threeClick(View view) {
-        Intent intent = new Intent(this,ZpmManifestoPage.class);
-        intent.putExtra("click",3);
-        startActivity(intent);
+        startActivity(new Intent(this,ZpmManifestoPage.class).putExtra("click",3));
+        Bungee.zoom(this);
+//        Intent intent = new Intent(this,ZpmManifestoPage.class);
+//        intent.putExtra("click",3);
+//        startActivity(intent);
     }
     public void fourClick(View view) {
-        Intent intent = new Intent(this,ZpmManifestoPage.class);
-        intent.putExtra("click",4);
-        startActivity(intent);
+        startActivity(new Intent(this,ZpmManifestoPage.class).putExtra("click",4));
+        Bungee.zoom(this);
+//        Intent intent = new Intent(this,ZpmManifestoPage.class);
+//        intent.putExtra("click",4);
+//        startActivity(intent);
     }
     public void fiveClick(View view) {
-        Intent intent = new Intent(this,ZpmManifestoPage.class);
-        intent.putExtra("click",5);
-        startActivity(intent);
+        startActivity(new Intent(this,ZpmManifestoPage.class).putExtra("click",5));
+        Bungee.zoom(this);
+//        Intent intent = new Intent(this,ZpmManifestoPage.class);
+//        intent.putExtra("click",5);
+//        startActivity(intent);
     }
     public void sixClick(View view) {
-        Intent intent = new Intent(this,ZpmManifestoPage.class);
-        intent.putExtra("click",6);
-        startActivity(intent);
+        startActivity(new Intent(this,ZpmManifestoPage.class).putExtra("click",6));
+        Bungee.zoom(this);
+//        Intent intent = new Intent(this,ZpmManifestoPage.class);
+//        intent.putExtra("click",6);
+//        startActivity(intent);
     }
     public void sevenClick(View view) {
-        Intent intent = new Intent(this,ZpmManifestoPage.class);
-        intent.putExtra("click",7);
-        startActivity(intent);
+        startActivity(new Intent(this,ZpmManifestoPage.class).putExtra("click",7));
+        Bungee.zoom(this);
+//        Intent intent = new Intent(this,ZpmManifestoPage.class);
+//        intent.putExtra("click",7);
+//        startActivity(intent);
     }
     public void eightClick(View view) {
-        Intent intent = new Intent(this,ZpmManifestoPage.class);
-        intent.putExtra("click",8);
-        startActivity(intent);
+        startActivity(new Intent(this,ZpmManifestoPage.class).putExtra("click",8));
+        Bungee.zoom(this);
+//        Intent intent = new Intent(this,ZpmManifestoPage.class);
+//        intent.putExtra("click",8);
+//        startActivity(intent);
     }
     public void nineClick(View view) {
-        Intent intent = new Intent(this,ZpmManifestoPage.class);
-        intent.putExtra("click",9);
-        startActivity(intent);
+        startActivity(new Intent(this,ZpmManifestoPage.class).putExtra("click",9));
+        Bungee.zoom(this);
+//        Intent intent = new Intent(this,ZpmManifestoPage.class);
+//        intent.putExtra("click",9);
+//        startActivity(intent);
     }
 
 

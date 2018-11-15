@@ -5,6 +5,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+import spencerstudios.com.bungeelib.Bungee;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -13,27 +15,39 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+//008577
+    //START THE MENU WITH "zpm" EXTRA
     public void zpmClick(View view) {
-        Intent intent = new Intent(this,menu.class);
-        intent.putExtra("partyName","zpm");
-        startActivity(intent);
+        startActivity(new Intent(this,menu.class).putExtra("partyName","zpm"));
+        Bungee.zoom(this);
+      //   Intent intent = new Intent(this,menu.class);
+      //  intent.putExtra("partyName","zpm");
+      //  startActivity(intent);
     }
 
+    //START THE MENU WITH "prism" EXTRA
     public void prismClick(View view) {
-        Intent intent = new Intent(this,menu.class);
-        intent.putExtra("partyName","prism");
-        startActivity(intent);
+        startActivity(new Intent(this,menu.class).putExtra("partyName","prism"));
+        Bungee.zoom(this);
+//        Intent intent = new Intent(this,menu.class);int
+//        intent.putExtra("partyName","prism");
+        //startActivity(intent);
     }
 
+    //START THE MENU WITH "mnf" EXTRA
     public void mnfClick(View view) {
-        Intent intent = new Intent(this,menu.class);
-        intent.putExtra("partyName","mnf");
-        startActivity(intent);
+        startActivity(new Intent(this,menu.class).putExtra("partyName","mnf"));
+        Bungee.zoom(this);
+//        Intent intent = new Intent(this,menu.class);
+//        intent.putExtra("partyName","mnf");
+//        startActivity(intent);
     }
-
+    //START THE MENU WITH "congress" EXTRA
     public void congressClick(View view) {
-        Intent intent = new Intent(this,menu.class);
-        intent.putExtra("partyName","congress");
-        startActivity(intent);
+        startActivity(new Intent(this,menu.class).putExtra("partyName","congress"));
+        Bungee.zoom(this);
+//        Intent intent = new Intent(this,menu.class);
+//        intent.putExtra("partyName","congress");
+//        startActivity(intent);
     }
 }
