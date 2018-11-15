@@ -1605,13 +1605,7 @@ chu a ni.
 
     <string name="prismManifestos">
         \n
-        1. Magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.\n
-        2. Perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut \n
-        3. Aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore \n
-        4. Aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.\n
-        5. Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n
-        6. Nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n
-
+        no data
     </string>
 
     <string name="mnfManifestos">
@@ -1786,46 +1780,87 @@ ennawnin kan siamtha ang.\n\n.
 
     </string>
 
-    <string name="zpmCandidate1">no data</string>
-    <string name="zpmCandidate2"></string>
-    <string name="zpmCandidate3"></string>
-    <string name="zpmCandidate4"></string>
-    <string name="zpmCandidate5"></string>
-    <string name="zpmCandidate6"></string>
-    <string name="zpmCandidate7"></string>
-    <string name="zpmCandidate8"></string>
-    <string name="zpmCandidate9"></string>
-    <string name="zpmCandidate10"></string>
-    <string name="zpmCandidate11"></string>
-    <string name="zpmCandidate12"></string>
-    <string name="zpmCandidate13"></string>
-    <string name="zpmCandidate14"></string>
-    <string name="zpmCandidate15"></string>
-    <string name="zpmCandidate16"></string>
-    <string name="zpmCandidate17"></string>
-    <string name="zpmCandidate18"></string>
-    <string name="zpmCandidate19"></string>
-    <string name="zpmCandidate20"></string>
-    <string name="zpmCandidate21"></string>
-    <string name="zpmCandidate22"></string>
-    <string name="zpmCandidate23"></string>
-    <string name="zpmCandidate24"></string>
-    <string name="zpmCandidate25"></string>
-    <string name="zpmCandidate26"></string>
-    <string name="zpmCandidate27"></string>
-    <string name="zpmCandidate28"></string>
-    <string name="zpmCandidate29"></string>
-    <string name="zpmCandidate30"></string>
-    <string name="zpmCandidate31"></string>
-    <string name="zpmCandidate32"></string>
-    <string name="zpmCandidate33"></string>
-    <string name="zpmCandidate34"></string>
-    <string name="zpmCandidate35"></string>
-    <string name="zpmCandidate36"></string>
-    <string name="zpmCandidate37"></string>
-    <string name="zpmCandidate38"></string>
-    <string name="zpmCandidate39"></string>
-    <string name="zpmCandidate40"></string>
+    <string name="zpmCandidate1">H. Lallianzuala</string>
+    <string name="zpmCandidate2">F. Lalrintluangi</string>
+    <string name="zpmCandidate3">C. Zothansanga</string>
+    <string name="zpmCandidate4">Andrew H. Thangliana</string>
+    <string name="zpmCandidate5">Lalfamkima</string>
+    <string name="zpmCandidate6">Lalmuanpuia Punte</string>
+    <string name="zpmCandidate7">K. Romawia</string>
+    <string name="zpmCandidate8">F. Rualhleia</string>
+    <string name="zpmCandidate9">R. Lalthatluanga</string>
+    <string name="zpmCandidate10">Vanlalhlana</string>
+    <string name="zpmCandidate11">Dr. Vanlalthlana</string>
+    <string name="zpmCandidate12">C. Lalhmingthanga</string>
+    <string name="zpmCandidate13">K. Sapdanga</string>
+    <string name="zpmCandidate14">B. Lalchhanzova</string>
+    <string name="zpmCandidate15">Lalduhoma</string>
+    <string name="zpmCandidate16">Lalhmangaiha Sailo</string>
+    <string name="zpmCandidate17">VL Zaithanzama</string>
+    <string name="zpmCandidate18">C. Lalsawivunga</string>
+    <string name="zpmCandidate19">Lalchhuanthanga</string>
+    <string name="zpmCandidate20">RD Lalrammawia</string>
+    <string name="zpmCandidate21">Er. H. Ginzalal</string>
+    <string name="zpmCandidate22">W. Chhuanawma</string>
+    <string name="zpmCandidate23">Upa C Lalchhawnthanga</string>
+    <string name="zpmCandidate24">C. Lalremliana</string>
+    <string name="zpmCandidate25">C. Laltanpuia</string>
+    <string name="zpmCandidate26">Lalduhoma</string>
+    <string name="zpmCandidate27">P.C Vanlalruata</string>
+    <string name="zpmCandidate28">Lalthansanga (Chatea)</string>
+    <string name="zpmCandidate29">Phairothanga</string>
+    <string name="zpmCandidate30">V. Malsawmtluanga</string>
+    <string name="zpmCandidate31">Lalrinpuii</string>
+    <string name="zpmCandidate32">Lalnuntluanga Sailo</string>
+    <string name="zpmCandidate33">Rev. Dr. K. Thanzauva</string>
+    <string name="zpmCandidate34">Lalrinzuala (Pamama)</string>
+    <string name="zpmCandidate35">B. Vanlalauva</string>
+    <string name="zpmCandidate36">B. Vanlalthaa</string>
+    <string name="zpmCandidate37">MC Lalramchhana</string>
+    <string name="zpmCandidate38">F.Thangchhuaha</string>
+
+
+
+    <string name="zpmCandidate1_bial">1-Hachhek</string>
+    <string name="zpmCandidate2_bial">2-Dampa</string>
+    <string name="zpmCandidate3_bial">3- Mamit</string>
+    <string name="zpmCandidate4_bial">4- Tuirial</string>
+    <string name="zpmCandidate5_bial">5-Kolasib</string>
+    <string name="zpmCandidate6_bial">6-Serlui</string>
+    <string name="zpmCandidate7_bial">7-Tuivawl</string>
+    <string name="zpmCandidate8_bial">8-Chalfilh</string>
+    <string name="zpmCandidate9_bial">9-Tawi</string>
+    <string name="zpmCandidate10_bial">10-Aizawl North – I</string>
+    <string name="zpmCandidate11_bial">11-Aizawl North – II</string>
+    <string name="zpmCandidate12_bial">12-Aizawl North – III</string>
+    <string name="zpmCandidate13_bial">13-Aizawl East – I</string>
+    <string name="zpmCandidate14_bial">14-Aizawl East – II</string>
+    <string name="zpmCandidate15_bial">15-Aizawl West – I</string>
+    <string name="zpmCandidate16_bial">16-Aizawl West – II</string>
+    <string name="zpmCandidate17_bial">17-Aizawl West – III</string>
+    <string name="zpmCandidate18_bial">18-Aizawl South – I</string>
+    <string name="zpmCandidate19_bial">19-Aizawl South – II</string>
+    <string name="zpmCandidate20_bial">20-Aizawl South – III</string>
+    <string name="zpmCandidate21_bial">21-Lengteng</string>
+    <string name="zpmCandidate22_bial">22-Tuichang</string>
+    <string name="zpmCandidate23_bial">23-Champhai North</string>
+    <string name="zpmCandidate24_bial">24-Champhai South</string>
+    <string name="zpmCandidate25_bial">25-East Tuipui</string>
+    <string name="zpmCandidate26_bial">26-Serchhip</string>
+    <string name="zpmCandidate27_bial">27-Tuikum</string>
+    <string name="zpmCandidate28_bial">28-Hrangturzo</string>
+    <string name="zpmCandidate29_bial">29-South Tuipui</string>
+    <string name="zpmCandidate30_bial">30-Lunglei North</string>
+    <string name="zpmCandidate31_bial">31-Lunglei East</string>
+    <string name="zpmCandidate32_bial">32-Lunglei West</string>
+    <string name="zpmCandidate33_bial">33-Lunglei South</string>
+    <string name="zpmCandidate34_bial">34-Thorang</string>
+    <string name="zpmCandidate35_bial">35-West Tuipui</string>
+    <string name="zpmCandidate36_bial">37-Lawngtlai West</string>
+    <string name="zpmCandidate37_bial">38- Lawngtlai East</string>
+    <string name="zpmCandidate38_bial">39-Saiha</string>
+
+
 
 
     <string name="prismCandidate1">EDDY ZOSANGLIANA</string>

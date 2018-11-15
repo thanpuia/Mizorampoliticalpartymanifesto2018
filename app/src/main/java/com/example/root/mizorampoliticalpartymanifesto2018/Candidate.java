@@ -57,7 +57,14 @@ public class Candidate extends AppCompatActivity {
 
         candidateImg = new int[]{R.mipmap.ic_launcher,R.mipmap.ic_launcher,R.mipmap.ic_launcher};
 
-        zpmCandidate = new int[]{R.string.zpmCandidate1};
+        zpmCandidate = new int[]{R.string.zpmCandidate1,R.string.zpmCandidate2,R.string.zpmCandidate3,R.string.zpmCandidate4,R.string.zpmCandidate5,
+                R.string.zpmCandidate6,R.string.zpmCandidate7,R.string.zpmCandidate8,R.string.zpmCandidate9,R.string.zpmCandidate10,
+                R.string.zpmCandidate11,R.string.zpmCandidate12,R.string.zpmCandidate13,R.string.zpmCandidate14,R.string.zpmCandidate15,
+                R.string.zpmCandidate16,R.string.zpmCandidate17,R.string.zpmCandidate18,R.string.zpmCandidate19,R.string.zpmCandidate20,
+                R.string.zpmCandidate21,R.string.zpmCandidate22,R.string.zpmCandidate23,R.string.zpmCandidate24,R.string.zpmCandidate25,
+                R.string.zpmCandidate26,R.string.zpmCandidate27,R.string.zpmCandidate28,R.string.zpmCandidate29,R.string.zpmCandidate30,
+                R.string.zpmCandidate31,R.string.zpmCandidate32,R.string.zpmCandidate33,R.string.zpmCandidate34,R.string.zpmCandidate35,
+                R.string.zpmCandidate36,R.string.zpmCandidate37,R.string.zpmCandidate38};
 
         prismCandidate = new int[]{R.string.prismCandidate1,R.string.prismCandidate2,R.string.prismCandidate3,R.string.prismCandidate4,
                 R.string.prismCandidate5,R.string.prismCandidate6, R.string.prismCandidate7,R.string.prismCandidate8,
@@ -108,7 +115,14 @@ public class Candidate extends AppCompatActivity {
                 R.string.congressCandidate31_bial,R.string.congressCandidate32_bial,R.string.congressCandidate33_bial,R.string.congressCandidate34_bial,R.string.congressCandidate35_bial,
                 R.string.congressCandidate36_bial,R.string.congressCandidate37_bial,R.string.congressCandidate38_bial,R.string.congressCandidate39_bial,R.string.congressCandidate40_bial};
 
-        zpmCandidate_bial = new int[]{R.string.zpmCandidate1,R.string.zpmCandidate2,R.string.zpmCandidate3};
+        zpmCandidate_bial = new int[]{R.string.zpmCandidate1_bial,R.string.zpmCandidate2_bial,R.string.zpmCandidate3_bial,R.string.zpmCandidate4_bial,R.string.zpmCandidate5_bial,
+                R.string.zpmCandidate6_bial,R.string.zpmCandidate7_bial,R.string.zpmCandidate8_bial,R.string.zpmCandidate9_bial,R.string.zpmCandidate10_bial,
+                R.string.zpmCandidate11_bial,R.string.zpmCandidate12_bial,R.string.zpmCandidate13_bial,R.string.zpmCandidate14_bial,R.string.zpmCandidate15_bial,
+                R.string.zpmCandidate16_bial,R.string.zpmCandidate17_bial,R.string.zpmCandidate18_bial,R.string.zpmCandidate19_bial,R.string.zpmCandidate20_bial,
+                R.string.zpmCandidate21_bial,R.string.zpmCandidate22_bial,R.string.zpmCandidate23_bial,R.string.zpmCandidate24_bial,R.string.zpmCandidate25_bial,
+                R.string.zpmCandidate26_bial,R.string.zpmCandidate27_bial,R.string.zpmCandidate28_bial,R.string.zpmCandidate29_bial,R.string.zpmCandidate30_bial,
+                R.string.zpmCandidate31_bial,R.string.zpmCandidate32_bial,R.string.zpmCandidate33_bial,R.string.zpmCandidate34_bial,R.string.zpmCandidate35_bial,
+                R.string.zpmCandidate36_bial,R.string.zpmCandidate37_bial,R.string.zpmCandidate38_bial};
 
         ncpCandidate_bial = new int[]{R.string.ncpCandidate1_bial,R.string.ncpCandidate2_bial,R.string.ncpCandidate3_bial,R.string.ncpCandidate4_bial,R.string.ncpCandidate5_bial,
                 R.string.ncpCandidate6_bial,R.string.ncpCandidate7_bial};
