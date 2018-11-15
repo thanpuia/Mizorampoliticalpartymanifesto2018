@@ -39,13 +39,25 @@ public class Candidate extends AppCompatActivity {
         bundle = getIntent().getExtras();
         message = bundle.getString("partyName");
 
+        if(message.equals("zpm"))
+            getSupportActionBar().setTitle("ZPM");
+
+        if(message.equals("prism"))
+            getSupportActionBar().setTitle("PRISM");
+
+        if(message.equals("congress"))
+            getSupportActionBar().setTitle("Congress");
+
+        if(message.equals("mnf"))
+            getSupportActionBar().setTitle("MNF");
+
         code = new int[2];
 
         listView = findViewById(R.id.candidateListView);
 
         candidateImg = new int[]{R.mipmap.ic_launcher,R.mipmap.ic_launcher,R.mipmap.ic_launcher};
 
-        zpmCandidate = new int[]{R.string.zpmCandidate1,R.string.zpmCandidate2,R.string.zpmCandidate3};
+        zpmCandidate = new int[]{R.string.zpmCandidate1};
 
         prismCandidate = new int[]{R.string.prismCandidate1,R.string.prismCandidate2,R.string.prismCandidate3,R.string.prismCandidate4,
                 R.string.prismCandidate5,R.string.prismCandidate6, R.string.prismCandidate7,R.string.prismCandidate8,
@@ -100,6 +112,9 @@ public class Candidate extends AppCompatActivity {
 
         ncpCandidate_bial = new int[]{R.string.ncpCandidate1_bial,R.string.ncpCandidate2_bial,R.string.ncpCandidate3_bial,R.string.ncpCandidate4_bial,R.string.ncpCandidate5_bial,
                 R.string.ncpCandidate6_bial,R.string.ncpCandidate7_bial};
+
+
+
         CustomAdapter adapter = new CustomAdapter();
         listView.setAdapter(adapter);
 
@@ -135,8 +150,9 @@ public class Candidate extends AppCompatActivity {
         public View getView(int position, View convertView, ViewGroup parent) {
             convertView = getLayoutInflater().inflate(R.layout.candidatedetails, null);
 
-            ImageView imageView = findViewById(R.id.candidateImageView);
-         //   TextView candidateName = findViewById(R.id.candidateName);
+          //  ImageView imageView = findViewById(R.id.candidateImageView);
+           // imageView.setVisibility(View.GONE );
+           // TextView candidateName = findViewById(R.id.candidateName);
            // TextView candidateBial = findViewById(R.id.candidateBial);
             TextView candidateNetWorth = findViewById(R.id.candidateNetWorth);
             android.widget.TextView candidateName= (android.widget.TextView)convertView.findViewById(R.id.candidateName);
@@ -144,10 +160,10 @@ public class Candidate extends AppCompatActivity {
 
             if(message.equals("zpm")){
 
-                Intent intent = new Intent(getApplicationContext(),ZpmManifestoContent.class);
-                startActivity(intent);
-//                candidateName.setText(zpmCandidate[position]);
-//                candidateBial.setText(zpmCandidate_bial[position]);
+//                Intent intent = new Intent(getApplicationContext(),ZpmManifestoContent.class);
+//                startActivity(intent);
+                candidateName.setText(zpmCandidate[position]);
+                candidateBial.setText(zpmCandidate_bial[position]);
             }
             if(message.equals("prism")){
 

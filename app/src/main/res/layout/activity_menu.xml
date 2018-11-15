@@ -6,14 +6,16 @@
     android:layout_height="match_parent"
     tools:context=".menu"
     android:orientation="vertical"
-    android:gravity="center">
+    android:gravity="center"
+    android:background="@color/mainBackground">
+
 
     <TextView
         android:id="@+id/manifest"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="33dp"
-        android:text="Manifest"
+        android:text="Manifesto"
         android:padding="10dp"
         android:background="#dd6e6e"
         android:layout_margin="20dp"

@@ -4,43 +4,48 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:gravity="center"
+    android:background="@color/mainBackground">
 
-    <TableRow>
 
-        <ImageButton
+    <TableRow
+        android:gravity="center">
+
+        <de.hdodenhof.circleimageview.CircleImageView
             android:id="@+id/zpm"
             android:layout_width="150dp"
             android:layout_height="150dp"
-            android:src="@drawable/zpm"
+            android:src="@drawable/zpm1"
             android:onClick="zpmClick"
             android:layout_margin="5dp"/>
 
-        <ImageButton
+        <de.hdodenhof.circleimageview.CircleImageView
             android:id="@+id/prism"
             android:layout_width="150dp"
             android:layout_height="150dp"
-            android:src="@drawable/prism"
+            android:src="@drawable/prism1"
             android:onClick="prismClick"
             android:layout_margin="5dp"/>
     </TableRow>
 
 
-    <TableRow>
+    <TableRow
+        android:gravity="center">
 
-        <ImageButton
+        <de.hdodenhof.circleimageview.CircleImageView
             android:id="@+id/mnf"
             android:layout_width="150dp"
             android:layout_height="150dp"
-            android:src="@drawable/mnf"
+            android:src="@drawable/mnf1"
             android:onClick="mnfClick"
             android:layout_margin="5dp"/>
 
-        <ImageButton
+        <de.hdodenhof.circleimageview.CircleImageView
             android:id="@+id/congress"
             android:layout_width="150dp"
             android:layout_height="150dp"
-            android:src="@drawable/congress"
+            android:src="@drawable/congress1"
             android:onClick="congressClick"
             android:layout_margin="5dp"/>
     </TableRow>
