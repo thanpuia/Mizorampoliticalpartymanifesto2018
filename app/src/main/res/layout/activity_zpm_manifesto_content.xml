@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ZpmManifestoContent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <Button
+                android:text="I. Inawpna lama hmalakna"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="oneClick"/>
+
+
+            <Button
+                android:text="II. Politiks lam"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="twoClick"/>
+
+            <Button
+                android:text="III. Ram hmasawnna ruangam lian"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="threeClick"/>
+
+            <Button
+                android:text="IV. Vantlang nun siam\hatna lam"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="fourClick"/>
+
+            <Button
+                android:text="V. Thil tharchhuah leh siamchhuaha intodelhna"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="fiveClick"/>
+
+            <Button
+                android:text="VI. Hnathawh dan thar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="sixClick"/>
+
+            <Button
+                android:text="VII. Inawpna lam siam\hat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="sevenClick"/>
+
+            <Button
+                android:text="VIII. Thalaite pual"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="eightClick"/>
+            <Button
+                android:text="IX. Khuanu thilpek humhalh"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="nineClick"/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

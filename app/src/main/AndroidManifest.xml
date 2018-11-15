@@ -18,7 +18,9 @@
         </activity>
         <activity android:name=".Manifestos" />
         <activity android:name=".menu" />
-        <activity android:name=".Candidate"></activity>
+        <activity android:name=".Candidate" />
+        <activity android:name=".ZpmManifestoContent" />
+        <activity android:name=".ZpmManifestoPage"></activity>
     </application>
 
 </manifest>
