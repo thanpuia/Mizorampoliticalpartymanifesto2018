@@ -36,7 +36,7 @@ public class ManifestoContent extends AppCompatActivity {
                 R.string.zpm_content4,R.string.zpm_content5, String.valueOf(R.string.zpm_content6),
                 R.string.zpm_content7,R.string.zpm_content8,R.string.zpm_content9};
 */
-        zpmContent= new String[]{"I. Inawpna lama hmalweakna","II. Politiks lam","III. Ram hmasawnna ruangam lian","IV. Vantlang nun siamthatna lam",
+        zpmContent= new String[]{"I. Inawpna lama hmalakna","II. Politiks lam","III. Ram hmasawnna ruangam lian","IV. Vantlang nun siamthatna lam",
                 "V. Thil tharchhuah leh siamchhuaha intodelhna","VI. Hnathawh dan thar","VII. Inawpna lam siamthat",
                 "VIII. Thalaite pual","IX. Khuanu thilpek humhalh"};
 
